@@ -8,11 +8,11 @@
 | 文档 | 产品 | 状态 | 说明 |
 |---|---|---|---|
 | [das.md](das.md) | 数据库自治服务 DAS（hdm） | ✅ 完成 | 诊断/止血/验证核心，含 90+ API |
-| ecs-cloud-assistant.md | ECS 云助手 | 📋 待整理 | 执行通道：RunCommand 等 |
-| cms.md | 云监控 CMS | 📋 待整理 | 指标/告警通道 |
-| sls.md | 日志服务 SLS | 📋 待整理 | 日志采集与查询 |
-| sts.md | RAM/STS | 📋 待整理 | 临时凭证与细粒度授权 |
-| skills.md | 官方云 Skills | 📋 待整理 | aiops-skills 仓库结构与安装方式 |
+| [ecs-cloud-assistant.md](ecs-cloud-assistant.md) | ECS 云助手 | ✅ 完成 | 执行通道：RunCommand 全参数 + DryRun 预检 |
+| [cms.md](cms.md) | 云监控 CMS | ✅ 完成 | 指标/告警通道 + 自定义监控 |
+| [sls.md](sls.md) | 日志服务 SLS | ✅ 完成 | LoongCollector 采集 + GetLogsV2 查询 |
+| [sts.md](sts.md) | RAM/STS | ✅ 完成 | AssumeRole 临时凭证 + 双层 JIT 设计 |
+| [skills.md](skills.md) | 官方云 Skills | ✅ 完成 | aiops-skills 仓库结构 + 5 个可用 Skill |
 
 ## 通道分工总览
 
