@@ -32,7 +32,7 @@ zero_sre/
   - Element Web: http://127.0.0.1:18088
   - Dashboard: http://127.0.0.1:13000
   - Higress 控制台: http://127.0.0.1:18001
-- 数据库：阿里云 ECS 部署 PG/MySQL 三节点（规划中）
+- 数据库：阿里云 ECS 自建 **PostgreSQL 三节点**（运维目标，规划中）；PolarDB for PostgreSQL + pgvector 作 Agent 数据层
 
 ## Git 协作规范
 
